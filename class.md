@@ -1,0 +1,1 @@
+alex , LA, FULL STACK DEV.
